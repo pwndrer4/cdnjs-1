@@ -13,8 +13,8 @@
  <a href="https://github.com/cdnjs/cdnjs/blob/master/LICENSE">
   <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square" alt="MIT License">
  </a>
- <a href="https://cdnjs.discourse.group/">
-  <img src="https://img.shields.io/discourse/https/cdnjs.discourse.group/status.svg?label=Community%20Discourse&style=flat-square" alt="Community">
+ <a href="https://github.com/cdnjs/cdnjs/discussions">
+  <img src="https://img.shields.io/badge/GitHub-Discussions-brightgreen.svg?style=flat-square" alt="Discussions">
  </a>
 </p>
 
@@ -60,7 +60,7 @@ You can find all our repositories at [github.com/cdnjs](https://github.com/cdnjs
 
 ## Contributing
 
-As this repository is now considered robot-only, pull requests are no longer excepted for this repository. If you are looking to contribute to cdnjs, please take a look at the [`cdnjs/packages`](https://github.com/cdnjs/packages) repository or any of our other [open-source repositories on GitHub](https://github.com/cdnjs)!
+As this repository is now considered robot-only, pull requests are no longer accepted for this repository. If you are looking to contribute to cdnjs, please take a look at the [`cdnjs/packages`](https://github.com/cdnjs/packages) repository or any of our other [open-source repositories on GitHub](https://github.com/cdnjs)!
 
 ## Sponsors
 
@@ -69,11 +69,9 @@ cdnjs wouldn't be the success that it is today without our sponsors' kind suppor
 * [Cloudflare](https://www.cloudflare.com/?utm_source=cdnjs&utm_medium=link&utm_campaign=cdnjs_readme)
 * [Algolia](https://www.algolia.com/?utm_source=cdnjs&utm_medium=link&utm_campaign=cdnjs_readme)
 * [DigitalOcean](https://www.digitalocean.com/?utm_source=cdnjs&utm_medium=link&utm_campaign=cdnjs_readme)
-* [Heroku](https://www.heroku.com/?utm_source=cdnjs&utm_medium=link&utm_campaign=cdnjs_readme)
 * [Statuspage](https://www.statuspage.io/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_readme)
-* [Discourse](https://www.discourse.org/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_readme)
-* [SolarWinds](https://www.solarwinds.com/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_readme)
 * [Sentry](https://sentry.io/welcome/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_readme)
+* [UptimeRobot](https://uptimerobot.com/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_readme)
 
 If you are interested in becoming a sponsor, please feel free to contact us!
 
